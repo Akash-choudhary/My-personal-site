@@ -1,0 +1,140 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+}
+
+h2 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66bfbf;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+
+.top-container {
+  background-color: #c2f0fc;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+ .middle-container{
+
+   margin: 100px 0;
+
+background-color: white;
+}
+
+.bottom-container{
+  background-color: #363636;
+  padding: 40px 0 10px;
+
+
+
+
+}
+
+p
+{
+  line-height: 2;
+
+}
+
+hr{
+border: dotted #aacfcf 6px;
+border-bottom: none;
+width: 7%;
+margin: 50px auto;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.skill-row{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+.computer-image{
+  float: left;
+  margin-right: 30px;
+
+}
+
+.cricket-image{
+float: right;
+margin-left: 30px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 40px;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+
+.btn {
+	box-shadow: 0px 4px 10px 0px #3dc21b;
+	background-color:#45c7b1;
+	border-radius:22px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:12px 17px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-top: 10px;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
